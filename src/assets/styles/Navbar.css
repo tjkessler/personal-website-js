@@ -1,0 +1,45 @@
+nav {
+  background-color: #333;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav h2 {
+  color: white;
+  margin-right: 2ex;
+  margin-left: 3ex;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+nav ul li {
+  float: left;
+  height: 100%;
+}
+
+nav ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4ex 3ex 3ex 3ex;
+  display: inline-block;
+  text-decoration: none;
+}
+
+nav ul li img {
+  margin-top: -0.7ex;
+}
+
+nav ul li a:hover {
+  background-color: #007219;
+}

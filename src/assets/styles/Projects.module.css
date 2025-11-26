@@ -1,0 +1,9 @@
+.proj_ul {
+  list-style-type: circle;
+  padding-left: 3ex;
+  padding-right: 3ex;
+}
+
+.proj_li {
+  margin-bottom: 10px;
+}

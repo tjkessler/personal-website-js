@@ -1,0 +1,9 @@
+.publ_pres_ul {
+  list-style-type: circle;
+  padding-left: 3ex;
+  padding-right: 3ex;
+}
+
+.pub_pres_li {
+  margin-bottom: 10px;
+}
